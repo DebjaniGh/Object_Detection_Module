@@ -40,7 +40,7 @@ Fig. 2 - Results of T1, T2, T3
 We also trained a GAN model to obtain synthetic images. The workflow for the same is presented below in Figure 3.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/13494311/185407116-eb1a752a-576c-462a-99bd-f61f0bab5be5.jpg" alt="GAN_framework" width=30% height=20%>
+  <img src="https://user-images.githubusercontent.com/13494311/185407116-eb1a752a-576c-462a-99bd-f61f0bab5be5.jpg" alt="GAN_framework" width=40% height=40%>
 </p>
 
 <p align = "center">
@@ -50,13 +50,13 @@ Fig. 3 - The workflow of GAN model training
 We performed daytime to nighttime image translation using GAN. The results are shown below. For more results, visit this link - https://drive.google.com/drive/folders/1bpPX3Ru812ef1I4SWytAxBjk1SQvbiFw
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/13494311/185407664-5dd1ffc0-a1e8-4373-bcde-ba5dabaa4e6b.png" alt="Img1_day" width=32% />
-  <img src="https://user-images.githubusercontent.com/13494311/185407722-dc8be53c-ac2f-47a4-80d5-5c20dc745a90.png" alt="Img1_night" width=32% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407664-5dd1ffc0-a1e8-4373-bcde-ba5dabaa4e6b.png" alt="Img1_day" width=45% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407722-dc8be53c-ac2f-47a4-80d5-5c20dc745a90.png" alt="Img1_night" width=45% />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/13494311/185407778-684d0d4b-d663-43ae-83e7-2b17d3bfed70.png" alt="Img2_day" width=32% />
-  <img src="https://user-images.githubusercontent.com/13494311/185407840-7158e356-7162-47fb-ab33-653de74e5335.png" alt="Img2_night" width=32% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407778-684d0d4b-d663-43ae-83e7-2b17d3bfed70.png" alt="Img2_day" width=45% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407840-7158e356-7162-47fb-ab33-653de74e5335.png" alt="Img2_night" width=45% />
 </p>
 
 <p align = "center">
