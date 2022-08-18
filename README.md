@@ -23,3 +23,9 @@ Below are the object detection results on a few images for T1, T2, and T3.
   <img src="https://user-images.githubusercontent.com/13494311/185403048-cd958614-4cce-42c9-82f2-1f6cdbe7b9d9.jpg" width=32% /> 
   <img src="https://user-images.githubusercontent.com/13494311/185403138-009dda45-7f17-40f2-a90e-888ae1f8fecf.jpg" width=32% />
 </p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/13494311/185404254-fcab7e54-86ce-4038-bef6-3695a993ac84.jpg" width=32% />
+  <img src="https://user-images.githubusercontent.com/13494311/185404367-894748d9-47ce-498a-8c31-2c575949c0ca.jpg" width=32% />
+  <img src="https://user-images.githubusercontent.com/13494311/185404521-511e8792-7a4c-4842-8ebf-ae9ea4e0d029.jpg" width=32% />
+</p>
