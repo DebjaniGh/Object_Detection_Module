@@ -3,8 +3,11 @@ This module contains the "data", "names", and "cfg" files which were used to tra
 
 We trained the Yolov4 object detector on the Pascal VOC 2012 dataset and used NVIDIA Container Toolkit (NCT) and Docker. The workflow of the model training is exhibited in Figure 1 below.
 
-<img src="https://user-images.githubusercontent.com/13494311/185402589-f3c55db3-1a04-4bc2-ab78-23bc8e587452.png" alt="Yolo Docker flowchart" width=30% height=20%>
-<p align = "left">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/13494311/185402589-f3c55db3-1a04-4bc2-ab78-23bc8e587452.png" alt="Yolo Docker flowchart" width=30% height=20%>
+</p>
+
+<p align = "center">
 Fig. 1 - The workflow of Yolov4 object detection model training
 </p>
 
@@ -28,4 +31,8 @@ Below are the object detection results on a few images for T1, T2, and T3.
   <img src="https://user-images.githubusercontent.com/13494311/185404254-fcab7e54-86ce-4038-bef6-3695a993ac84.jpg" width=32% />
   <img src="https://user-images.githubusercontent.com/13494311/185404367-894748d9-47ce-498a-8c31-2c575949c0ca.jpg" width=32% />
   <img src="https://user-images.githubusercontent.com/13494311/185404521-511e8792-7a4c-4842-8ebf-ae9ea4e0d029.jpg" width=32% />
+</p>
+
+<p align = "center">
+Fig. 2 - Results of T1, T2, T3
 </p>
