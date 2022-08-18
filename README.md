@@ -19,7 +19,7 @@ In T2, we corrected this imbalance which resulted in good detection results. The
 
 We could not achieve high mAP scores in T1 and T2. Hence, the final training (T3) was done on all the 20 classes of the Pascal dataset. 
 
-Below are the object detection results on a few images for T1, T2, and T3.
+Below are the object detection results on a few images for T1, T2, and T3. To view the results on more images, visit this link - https://drive.google.com/drive/folders/1y3aioIcrws8xNXrSyY5zQzhyXwGAwgSA
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/13494311/185402972-c95ecbb8-ddee-444b-a019-e3341f255a54.jpg" width=32% />
@@ -35,4 +35,30 @@ Below are the object detection results on a few images for T1, T2, and T3.
 
 <p align = "center">
 Fig. 2 - Results of T1, T2, T3
+</p>
+
+We also trained a GAN model to obtain synthetic images. The workflow for the same is presented below in Figure 3.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/13494311/185407116-eb1a752a-576c-462a-99bd-f61f0bab5be5.jpg" alt="GAN_framework" width=30% height=20%>
+</p>
+
+<p align = "center">
+Fig. 3 - The workflow of GAN model training
+</p>
+
+We performed daytime to nighttime image translation using GAN. The results are shown below. For more results, visit this link - https://drive.google.com/drive/folders/1bpPX3Ru812ef1I4SWytAxBjk1SQvbiFw
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/13494311/185407664-5dd1ffc0-a1e8-4373-bcde-ba5dabaa4e6b.png" alt="Img1_day" width=32% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407722-dc8be53c-ac2f-47a4-80d5-5c20dc745a90.png" alt="Img1_night" width=32% />
+</p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/13494311/185407778-684d0d4b-d663-43ae-83e7-2b17d3bfed70.png" alt="Img2_day" width=32% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407840-7158e356-7162-47fb-ab33-653de74e5335.png" alt="Img2_night" width=32% />
+</p>
+
+<p align = "center">
+Fig. 4 - Results of GAN
 </p>
