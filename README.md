@@ -55,8 +55,8 @@ We performed daytime to nighttime image translation using GAN. The results are s
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/13494311/185407778-684d0d4b-d663-43ae-83e7-2b17d3bfed70.png" alt="Img2_day" width=45% />
-  <img src="https://user-images.githubusercontent.com/13494311/185407840-7158e356-7162-47fb-ab33-653de74e5335.png" alt="Img2_night" width=45% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407778-684d0d4b-d663-43ae-83e7-2b17d3bfed70.png" alt="Img2_day" width=40% />
+  <img src="https://user-images.githubusercontent.com/13494311/185407840-7158e356-7162-47fb-ab33-653de74e5335.png" alt="Img2_night" width=40% />
 </p>
 
 <p align = "center">
