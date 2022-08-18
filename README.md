@@ -3,7 +3,7 @@ This module contains the "data", "names", and "cfg" files which were used to tra
 
 We trained the Yolov4 object detector on the Pascal VOC 2012 dataset and used NVIDIA Container Toolkit (NCT) and Docker. The workflow of the model training is exhibited in Figure 1 below.
 
-<img src="https://user-images.githubusercontent.com/13494311/185402589-f3c55db3-1a04-4bc2-ab78-23bc8e587452.png" alt="Yolo Docker flowchart" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/13494311/185402589-f3c55db3-1a04-4bc2-ab78-23bc8e587452.png" alt="Yolo Docker flowchart" width=30% height=20%>
 <p align = "left">
 Fig. 1 - The workflow of Yolov4 object detection model training
 </p>
